@@ -1,2 +1,2 @@
 # home-labs
-Networl Troubleshooting basic
+Network Troubleshooting basic
